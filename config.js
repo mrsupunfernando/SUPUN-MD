@@ -7,7 +7,7 @@ module.exports = {
   ANTILINK: toBool(process.env.ANTI_LINK) || true,
   LOGS: toBool(process.env.LOGS) || true,
   ANTILINK_ACTION: process.env.ANTI_LINK || "kick",
-  SESSION_ID: process.env.SESSION_ID ||null,
+  SESSION_ID: process.env.SESSION_ID ||,
   LANG: process.env.LANG || "EN",
   AUTH_TOKEN: "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",
   HANDLERS:
@@ -22,7 +22,7 @@ module.exports = {
   GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It was Nice Seeing you",
   AUTHOR: process.env.AUTHOR || "MR.SUPUN",
   SUDO:
-    process.env.SUDO || "94721445663",
+    process.env.SUDO || "94752057464",
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
   OWNER_NAME: process.env.OWNER_NAME || "MR.SUPUN FERNANDO",
