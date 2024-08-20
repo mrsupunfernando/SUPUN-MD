@@ -32,7 +32,7 @@ module.exports = {
   AUTO_STATUS_READ: toBool(process.env.AUTO_STATUS_READ) || true,
   PROCESSNAME: process.env.PROCESSNAME || "SUPUN-MD",
   WORK_TYPE: process.env.WORK_TYPE || "public",
-  SESSION_URL: process.env.SESSION_URL || "",
+  SESSION_URL: process.env.SESSION_URL || "LuJCCYQC#UCiw7Eudvkk1cEJUOdXPhQ51J1R8L5c23vGjX8ESqlw",
   DELETED_LOG: toBool(process.env.DELETED_LOG) || false,
   DELETED_LOG_CHAT: process.env.DELETED_LOG_CHAT || false,
   REMOVEBG: process.env.REMOVEBG || false,
