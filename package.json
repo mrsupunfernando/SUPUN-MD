@@ -37,7 +37,7 @@
     "socket.io-client": "^4.7.5",
     "sqlite3": "^5.1.7",
     "stream-buffers": "^3.0.2",
-    "SUPUN-MD": "^1.0.1"
+    "mrsupun": "^1.0.1"
   },
   "scripts": {
     "start": "pm2 start index.js --name mrsupun && pm2 logs mrsupun",
