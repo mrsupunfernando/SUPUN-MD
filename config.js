@@ -7,7 +7,7 @@ module.exports = {
   ANTILINK: toBool(process.env.ANTI_LINK) || true,
   LOGS: toBool(process.env.LOGS) || true,
   ANTILINK_ACTION: process.env.ANTI_LINK || "kick",
-  SESSION_ID: process.env.SESSION_ID || "LuJCCYQC#UCiw7Eudvkk1cEJUOdXPhQ51J1R8L5c23vGjX8ESqlw",
+  SESSION_ID: process.env.SESSION_ID || "null",
   LANG: process.env.LANG || "EN",
   AUTH_TOKEN: "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",
   HANDLERS:
@@ -22,7 +22,7 @@ module.exports = {
   GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It was Nice Seeing you",
   AUTHOR: process.env.AUTHOR || "MR.SUPUN",
   SUDO:
-    process.env.SUDO || "94752057464",
+    process.env.SUDO || "94721445663",
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
   OWNER_NAME: process.env.OWNER_NAME || "MR.SUPUN FERNANDO",
@@ -32,7 +32,7 @@ module.exports = {
   AUTO_STATUS_READ: toBool(process.env.AUTO_STATUS_READ) || true,
   PROCESSNAME: process.env.PROCESSNAME || "SUPUN-MD",
   WORK_TYPE: process.env.WORK_TYPE || "public",
-  SESSION_URL: process.env.SESSION_URL || "SUPUN-MD=Pc9RhToQ#comsDrt6a3FL4l-IESr0Xe9OCPCXEqUR3s6D_iRIbZU",
+  SESSION_URL: process.env.SESSION_URL || "null",
   DELETED_LOG: toBool(process.env.DELETED_LOG) || false,
   DELETED_LOG_CHAT: process.env.DELETED_LOG_CHAT || false,
   REMOVEBG: process.env.REMOVEBG || false,
