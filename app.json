@@ -1,0 +1,31 @@
+{
+  "name": "SUPUN-MD",
+  "description": "Javascript WhatsApp bot made by MR. SUPUN FERNANDO",
+  "logo": "https://graph.org/file/b5af12f23c204f8ee055f.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "",
+      "required": true
+    },  
+
+    "ALIVE_IMG": {
+      "description": "",
+      "required": true
+    },
+    
+    "ALIVE_MSG": {
+      "description": "",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
