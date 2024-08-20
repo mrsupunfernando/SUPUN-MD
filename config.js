@@ -7,7 +7,7 @@ module.exports = {
   ANTILINK: toBool(process.env.ANTI_LINK) || true,
   LOGS: toBool(process.env.LOGS) || true,
   ANTILINK_ACTION: process.env.ANTI_LINK || "kick",
-  SESSION_ID: process.env.SESSION_ID || "null",
+  SESSION_ID: process.env.SESSION_ID ||null,
   LANG: process.env.LANG || "EN",
   AUTH_TOKEN: "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",
   HANDLERS:
@@ -32,7 +32,7 @@ module.exports = {
   AUTO_STATUS_READ: toBool(process.env.AUTO_STATUS_READ) || true,
   PROCESSNAME: process.env.PROCESSNAME || "SUPUN-MD",
   WORK_TYPE: process.env.WORK_TYPE || "public",
-  SESSION_URL: process.env.SESSION_URL || "null",
+  SESSION_URL: process.env.SESSION_URL || "",
   DELETED_LOG: toBool(process.env.DELETED_LOG) || false,
   DELETED_LOG_CHAT: process.env.DELETED_LOG_CHAT || false,
   REMOVEBG: process.env.REMOVEBG || false,
