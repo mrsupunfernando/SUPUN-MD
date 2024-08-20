@@ -68,18 +68,7 @@ ____________________
      
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖬𝖣+𝖲𝖤𝖲𝖲𝖨𝖮𝖭+𝖨𝖣)](https://git.io/typing-svg) </div>
   
-<div align="center">
-
-<a href="https://anita-server-1.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
-
-●. ***Get a Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
-
-## Get your creds.json from replit
-  <a href="https://replit.com/@mrsupunfernando/Supun-Md-pair-code"><img src="https://img.shields.io/badge/creds%20pair%20code-green" alt="𝐒𝐄𝐒𝐒𝐎𝐈𝐍 𝐈𝐃" width="300"></a>
-   <br>
-
-</div>
-
+<a href="https://supun-pair-code-73cb258fe537.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
 <div align="left">
      
